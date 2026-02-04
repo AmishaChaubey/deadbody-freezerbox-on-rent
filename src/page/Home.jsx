@@ -819,7 +819,7 @@ Ensuring safe preservation with dignity, care, and prompt support.
 
           <div className="border-t border-gray-700 pt-6 sm:pt-8 text-center">
             <p className="text-xs sm:text-sm text-gray-400">
-              &copy; 2026 Noida Funeral Services. All rights reserved. 
+              &copy; 2026 Deadbody Freezer Box On Rent. All rights reserved. 
             </p>
           </div>
         </div>
