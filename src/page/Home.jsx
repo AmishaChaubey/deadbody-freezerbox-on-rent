@@ -128,7 +128,7 @@ const ContactSection = () => {
                     value={formData.location}
                     onChange={(e) => setFormData({...formData, location: e.target.value})}
                     className="w-full px-4 py-3 bg-white border-2 border-gray-200 rounded-xl focus:border-indigo-500 focus:ring-4 focus:ring-indigo-100 transition-all outline-none text-sm sm:text-base"
-                    placeholder="Sector, Noida"
+                    placeholder="Sector, NCR"
                   />
                 </div>
 
@@ -158,7 +158,7 @@ const ContactSection = () => {
   );
 };
 
-export default function NoidaFuneralServices() {
+export default function NCRFuneralServices() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [openFaq, setOpenFaq] = useState(null);
   const [scrolled, setScrolled] = useState(false);
@@ -182,12 +182,12 @@ export default function NoidaFuneralServices() {
     a: "A dead body freezer box is used to preserve the body at a controlled low temperature, preventing decomposition. It is required when the last rites are delayed due to family travel, legal formalities, or religious reasons."
   },
   {
-    q: "Do you provide dead body freezer box services on rent in Noida?",
-    a: "Yes, we provide dead body freezer box rental services across all sectors of Noida. Our service is available 24/7 with quick delivery and professional handling."
+    q: "Do you provide dead body freezer box services on rent in NCR?",
+    a: "Yes, we provide dead body freezer box rental services across all sectors of NCR. Our service is available 24/7 with quick delivery and professional handling."
   },
   {
     q: "How fast can the freezer box be delivered after booking?",
-    a: "We understand the urgency in such situations. Our team can deliver and install the freezer box within 30–60 minutes anywhere in Noida after confirmation."
+    a: "We understand the urgency in such situations. Our team can deliver and install the freezer box within 30–60 minutes anywhere in NCR after confirmation."
   },
   {
     q: "What temperature does the freezer box maintain?",
@@ -352,7 +352,7 @@ export default function NoidaFuneralServices() {
               {/* Badge */}
               <div className="inline-flex items-center space-x-2 px-3 sm:px-4 py-2 bg-white/10 backdrop-blur-md border border-white/20 rounded-full text-white text-xs sm:text-sm font-bold mb-8 sm:mb-16 animate-slide-up">
                 <Heart className="animate-pulse" size={14} />
-                <span>Professional Funeral Services in Noida</span>
+                <span>Professional Funeral Services in NCR</span>
               </div>
               
               <div>
@@ -364,7 +364,7 @@ export default function NoidaFuneralServices() {
                 
                 {/* Description */}
                 <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-gray-200 mb-6 sm:mb-8 leading-relaxed animate-slide-up" style={{animationDelay: '0.2s'}}>
-                 Offering respectful funeral and mortuary services round the clock in all sectors of Noida, with compassion you can rely on.
+                 Offering respectful funeral and mortuary services round the clock in all sectors of NCR, with compassion you can rely on.
                 </p>
                 
                 {/* CTA Buttons */}
@@ -404,7 +404,7 @@ export default function NoidaFuneralServices() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center mb-12 sm:mb-16">
             <h2 className="font-display text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-4 px-4">
-              Trusted by <span className="text-[#084e77] ">Families</span> Across Noida
+              Trusted by <span className="text-[#084e77] ">Families</span> Across NCR
             </h2>
             <p className="text-base sm:text-lg lg:text-xl text-gray-600 px-4">Excellence in service, compassion in care</p>
           </div>
@@ -444,7 +444,7 @@ export default function NoidaFuneralServices() {
               Compassionate Care <span className="text-[#084e77] ">When It Matters </span> Most
             </h2>
          <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-3xl mx-auto px-4">
-  We provide reliable dead body freezer box rental services across Noida.
+  We provide reliable dead body freezer box rental services across NCR.
 Ensuring safe preservation with dignity, care, and prompt support.
 </p>
 
@@ -558,13 +558,13 @@ Ensuring safe preservation with dignity, care, and prompt support.
 },
 {
   title: "24/7 Emergency Support",
-  description: "Round-the-clock emergency assistance for freezer box, ambulance, and dead body transport services across all areas of Noida.",
+  description: "Round-the-clock emergency assistance for freezer box, ambulance, and dead body transport services across all areas of NCR.",
   icon: "🚨",
   color: "from-red-500 to-red-600"
 },
 {
   title: "Dead Body Transportation",
-  description: "Dignified and secure dead body transportation services within Noida and to other cities, handled by trained professionals.",
+  description: "Dignified and secure dead body transportation services within NCR and to other cities, handled by trained professionals.",
   icon: "🚐",
   color: "from-green-500 to-green-600"
 },
@@ -629,10 +629,10 @@ Ensuring safe preservation with dignity, care, and prompt support.
               <span>Our Coverage</span>
             </div>
             <h2 className="font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-4 px-4">
-              Serving <span className="text-[#084e77] ">All of Noida</span>
+              Serving <span className="text-[#084e77] ">All of NCR</span>
             </h2>
             <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-2xl mx-auto px-4">
-              We provide funeral services across all sectors of Noida, Greater Noida, and Noida Extension
+              We provide funeral services across all sectors of NCR, Greater NCR, and NCR Extension
             </p>
           </div>
 
@@ -766,7 +766,7 @@ Ensuring safe preservation with dignity, care, and prompt support.
 
   {/* Description */}
   <p className="text-sm sm:text-base text-gray-300 leading-relaxed max-w-md">
-    24/7 funeral and mortuary services across every sector of Noida, handled with dignity, compassion, and professionalism.
+    24/7 funeral and mortuary services across every sector of NCR, handled with dignity, compassion, and professionalism.
   </p>
 </div>
 
@@ -811,7 +811,7 @@ Ensuring safe preservation with dignity, care, and prompt support.
                 </li>
                 <li className="flex items-start space-x-3">
                   <MapPin className="flex-shrink-0 text-white mt-1" size={16} />
-                  <span className="text-sm sm:text-base">SFD 240, Galaxy Diamond Plaza,Sec-4, Greater Noida,UP 201009</span>
+                  <span className="text-sm sm:text-base">SFD 240, Galaxy Diamond Plaza,Sec-4, Greater NCR,UP 201009</span>
                 </li>
               </ul>
             </div>
