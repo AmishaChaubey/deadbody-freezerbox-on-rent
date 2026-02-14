@@ -278,7 +278,7 @@ export default function NCRFuneralServices() {
           <div className="flex justify-between items-center h-16 sm:h-20">
             {/* Logo */}
             <div className="flex items-center space-x-2 sm:space-x-3 group cursor-pointer">
-              <img className='h-10 sm:h-20 w-auto' src='/logo.png' alt="Logo"/>
+              <img className='h-10 sm:h-20 w-auto' src='/logo3.png' alt="Logo"/>
             </div>
 
             {/* Desktop Navigation */}
@@ -757,7 +757,7 @@ Ensuring safe preservation with dignity, care, and prompt support.
   {/* Logo */}
   <div className="flex items-center gap-3 mb-4 sm:mb-6">
     <img
-      src="/logo.png"
+      src="/logo3.png"
       alt="Company Logo"
       className="h-20 sm:h-22 w-auto object-contain"
     />
@@ -819,7 +819,7 @@ Ensuring safe preservation with dignity, care, and prompt support.
 
           <div className="border-t border-gray-700 pt-6 sm:pt-8 text-center">
             <p className="text-xs sm:text-sm text-gray-400">
-              &copy; 2026 Deadbody Freezer Box On Rent. All rights reserved. 
+              &copy; 2026 Greater Noida Ambulance Service. All rights reserved. 
             </p>
           </div>
         </div>
