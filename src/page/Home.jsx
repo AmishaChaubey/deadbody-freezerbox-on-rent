@@ -278,7 +278,7 @@ export default function NCRFuneralServices() {
           <div className="flex justify-between items-center h-16 sm:h-20">
             {/* Logo */}
             <div className="flex items-center space-x-2 sm:space-x-3 group cursor-pointer">
-              <img className='h-10 sm:h-20 w-auto' src='/logo3.png' alt="Logo"/>
+              <img className='h-15 sm:h-20 w-auto' src='/logo3.png' alt="Logo"/>
             </div>
 
             {/* Desktop Navigation */}
